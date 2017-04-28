@@ -1,0 +1,10 @@
+h1 {
+	text-align: center;
+}
+#map {
+	background-color: lightblue;
+	height: 600px;
+}
+form {
+	margin-bottom: 40px;
+}
